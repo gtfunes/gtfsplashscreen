@@ -19,7 +19,7 @@ pod 'gtfsplashscreen'
 
 ## Author
 
-Gaston Funes, gtfunes@gmail.com
+Gaston Funes, me@gtfunes.com
 
 ## License
 
