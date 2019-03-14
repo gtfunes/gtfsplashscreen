@@ -1,0 +1,22 @@
+{
+  "name": "gtfsplashscreen",
+  "version": "0.1.0",
+  "summary": "A short description of gtfsplashscreen.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Gaston Funes/gtfsplashscreen",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gaston Funes": "gtfunes@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Gaston Funes/gtfsplashscreen.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "gtfsplashscreen/Classes/**/*"
+}

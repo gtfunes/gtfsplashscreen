@@ -1,0 +1,6 @@
+framework module gtfsplashscreen {
+  umbrella header "gtfsplashscreen-umbrella.h"
+
+  export *
+  module * { export * }
+}

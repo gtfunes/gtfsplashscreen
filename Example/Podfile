@@ -1,0 +1,6 @@
+use_frameworks!
+target 'gtfsplashscreen_Tests' do
+  pod 'gtfsplashscreen', :path => '../'
+  
+  
+end

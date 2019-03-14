@@ -1,0 +1,16 @@
+PODS:
+  - gtfsplashscreen (0.1.0)
+
+DEPENDENCIES:
+  - gtfsplashscreen (from `../`)
+
+EXTERNAL SOURCES:
+  gtfsplashscreen:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  gtfsplashscreen: 7b7c5f09655dcd957c619623596c01f40cdbf94b
+
+PODFILE CHECKSUM: daa0d9826fc0a7bf026ba3a85e0eb5ae1aaeaab1
+
+COCOAPODS: 1.7.0.beta.1
