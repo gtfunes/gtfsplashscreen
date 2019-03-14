@@ -61,7 +61,7 @@ class GTFSplashView: UIViewController {
         self.backgroundImage.contentMode = .scaleAspectFill
         self.view.addSubview(self.backgroundImage)
         
-        self.loadingIndicator = UIActivityIndicatorView.init(activityIndicatorStyle: .white)
+        self.loadingIndicator = UIActivityIndicatorView.init(style: .white)
         self.loadingIndicator.startAnimating()
         self.view.addSubview(self.loadingIndicator)
     }
